@@ -1,6 +1,7 @@
 Projeto do bot no servidor do Discord.
 
 Notas:
+    
     O id comentado no inicio não é obrigatório foi usado no primeiro modelo do código porem foi descartado e
     está lá somente se precisar futuramente.
 
