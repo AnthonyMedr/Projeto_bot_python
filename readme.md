@@ -7,4 +7,4 @@ Notas:
 
     O "." foi usado como prefixo por conta que alguns bots do servidor já usarem o "/", voçê pode simplismente mudar se preferir.
 
-    O token do final deve ser pego no site developer o discord e colocado no meio ddos parenteses.  
+    O token do final deve ser pego no site developer do discord e colocado no meio dos parenteses.  
