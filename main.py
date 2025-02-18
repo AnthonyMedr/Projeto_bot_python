@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import random
 
-#id_do_servidor =  1106403698353123380
+#id_do_servidor =  
 
 intents = discord.Intents.all()
 client = commands.Bot(command_prefix= '.' , intents = intents) #se quiser mudar a tecla para ativar comandos apague o "." no meio das aspas e coloque a da sua preferencia.
